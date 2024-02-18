@@ -14,7 +14,7 @@ El script espera que el usuario proporcione los nombres de la carpeta y los arch
 
 ## Ejemplo de Uso
 
-```bash
+
 $ ./script_carpeta_archivos.sh mis_archivos archivo1.txt archivo2.txt
 
 ## Ejecución

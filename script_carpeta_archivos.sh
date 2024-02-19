@@ -3,7 +3,7 @@ GNU nano 6.2               script_carpeta_archivos.sh             �
 
 # Crear carpeta nueva
 echo "Creando carpeta nueva: $1"
-mkdir -p "$1"
+mkdir "$1"
 
 # Crear dos archivos .txt en la carpeta
 echo "Creando archivos .txt en la carpeta..."

@@ -1,4 +1,4 @@
-# Script en Bash para crear una carpeta y dos archivos, con nombres elegidos por el usuario
+# Script en Bash para crear una carpeta y dos archivos, con nombres elegidos por el usuario y un menu de opciones
 
 Este script en Bash permite al usuario crear una carpeta y dos archivos, con nombres personalizados. Además, ejecuta un programa de Python que implementa un juego de adivinar números.
 

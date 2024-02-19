@@ -1,4 +1,3 @@
-GNU nano 6.2               script_carpeta_archivos.sh                         
 #!/bin/bash
 
 # Crear carpeta nueva

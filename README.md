@@ -5,7 +5,7 @@ Este script en Bash permite al usuario crear una carpeta y dos archivos, con nom
 ## Uso
 
 1. Descarga el script `script_carpeta_archivos.sh`.
-2. Abre una terminal y navega hasta el directorio donde se encuentra el script.
+2. Abre la terminal y navega hasta el directorio donde se encuentra el script (asegurate de descargar el .py).
 3. Ejecuta el script con el comando `./script_carpeta_archivos.sh [nombre_de_la_carpeta] [nombre_del_primer_archivo] [nombre_del_segundo_archivo]`.
 
 ## Instrucciones
@@ -15,14 +15,14 @@ El script espera que el usuario proporcione los nombres de la carpeta y los arch
 ## Ejemplo de Uso
 
 
-$ ./script_carpeta_archivos.sh mis_archivos archivo1.txt archivo2.txt
+$ ./script_carpeta_archivos.sh mis_archivos archivo1 archivo2
 
 ## Ejecución
 El script creará una carpeta llamada `mis_archivos` y dos archivos llamados `archivo1.txt` y `archivo2.txt` en esa carpeta. Luego, ejecutará un juego de adivinar números implementado en Python.
 
 ## Juego de Adivinar Números en Python
 
-El script también incluye un juego de adivinar números implementado en Python. Después de crear la carpeta y los archivos, el script ejecutará automáticamente este juego. El jugador deberá adivinar un número aleatorio entre 1 y el número que elija. El juego proporcionará pistas para ayudar al jugador a adivinar el número correcto.
+El script también incluye un juego de adivinar números implementado en Python. Después de crear la carpeta y los archivos, el script ejecutará automáticamente este juego. El jugador deberá adivinar un número aleatorio entre 1 y el número que elija (sin contar los decimales). El juego proporcionará pistas para ayudar al jugador a adivinar el número correcto.
 
 ## Nota
 

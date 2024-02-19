@@ -18,7 +18,7 @@ El script espera que el usuario proporcione los nombres de la carpeta y los arch
 $ ./script_carpeta_archivos.sh mis_archivos archivo1 archivo2
 
 ## Ejecución
-El script creará una carpeta llamada `mis_archivos` y dos archivos llamados `archivo1.txt` y `archivo2.txt` en esa carpeta. Luego, ejecutará un juego de adivinar números implementado en Python.
+El script creará una carpeta llamada `mis_archivos` y dos archivos llamados `archivo1.txt` y `archivo2.txt` en esa carpeta. Luego, ejecutará un menu de diferentes opciones a elegir por el usuario (crear carpeta, crear 2 archivos, ejecutar un juego de adivinar un número o salir del menú).
 
 ## Juego de Adivinar Números en Python
 

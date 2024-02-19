@@ -22,7 +22,7 @@ El script creará una carpeta llamada `mis_archivos` y dos archivos llamados `ar
 
 ## Juego de Adivinar Números en Python
 
-El script también incluye un juego de adivinar números implementado en Python. Después de crear la carpeta y los archivos, el script ejecutará automáticamente este juego. El jugador deberá adivinar un número aleatorio entre 1 y el número que elija (sin contar los decimales). El juego proporcionará pistas para ayudar al jugador a adivinar el número correcto.
+El script también incluye un juego de adivinar números implementado en Python. Después de crear la carpeta y los archivos, el menú ofrecerá el poder jugar a este juego. El jugador deberá adivinar un número aleatorio entre 1 y el número que elija (sin contar los decimales). El juego proporcionará pistas para ayudar al jugador a adivinar el número correcto.
 
 ## Nota
 
